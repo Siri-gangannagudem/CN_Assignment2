@@ -1,0 +1,47 @@
+{
+  "tcp_server": {
+    "host": "H7",
+    "port": 5001,
+    "max_connections": 10
+  },
+  "tcp_clients": [
+    {
+      "host": "H1",
+      "server_ip": "H7",
+      "port": 5001
+    },
+    {
+      "host": "H2",
+      "server_ip": "H7",
+      "port": 5001
+    },
+    {
+      "host": "H3",
+      "server_ip": "H7",
+      "port": 5001
+    },
+    {
+      "host": "H4",
+      "server_ip": "H7",
+      "port": 5001
+    },
+    {
+      "host": "H5",
+      "server_ip": "H7",
+      "port": 5001
+    },
+    {
+      "host": "H6",
+      "server_ip": "H7",
+      "port": 5001
+    }
+  ],
+  "congestion_control": {
+    "schemes": ["cubic", "reno", "bbr"],
+    "default_scheme": "cubic"
+  },
+  "link_loss": {
+    "enabled": false,
+    "loss_rate": 0.0
+  }
+}

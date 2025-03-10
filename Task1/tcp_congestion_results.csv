@@ -1,0 +1,24 @@
+Experiment,Algorithm,Throughput (Mbps),Goodput (Mbps),Loss Rate,Max Window Size (bytes)
+c,Reno,0.0,0.0,0.0,42340
+c,Vegas,0.0,0.0,0.0,42340
+c,H-TCP,0.0,0.0,0.0,42340
+c,Reno,0.0,0.0,0.0,42340
+a,Reno,0.0,0.0,0.9090909090909091,42340
+a,Vegas,0.0,0.0,0.9090909090909091,42340
+a,H-TCP,0.0,0.0,0.9090909090909091,42340
+a,Unknown Algorithm (Flow 4),0.0,0.0,0.9090909090909091,42340
+a,Unknown Algorithm (Flow 5),0.0,0.0,0.9090909090909091,42340
+a,Unknown Algorithm (Flow 6),0.0,0.0,0.9090909090909091,42340
+a,Unknown Algorithm (Flow 7),0.0,0.0,0.9090909090909091,42340
+a,Unknown Algorithm (Flow 8),0.0,0.0,0.9090909090909091,42340
+a,Unknown Algorithm (Flow 9),0.0,0.0,0.9090909090909091,42340
+d,Reno,0.0,0.0,0.0,42340
+b,Reno,0.0,0.0,0.9090909090909091,42340
+b,Vegas,0.0,0.0,0.9090909090909091,42340
+b,H-TCP,0.0,0.0,0.9090909090909091,42340
+b,Unknown Algorithm (Flow 4),0.0,0.0,0.9090909090909091,42340
+b,Unknown Algorithm (Flow 5),0.0,0.0,0.9090909090909091,42340
+b,Unknown Algorithm (Flow 6),0.0,0.0,0.9090909090909091,42340
+b,Unknown Algorithm (Flow 7),0.0,0.0,0.9090909090909091,42340
+b,Unknown Algorithm (Flow 8),0.0,0.0,0.9090909090909091,42340
+b,Unknown Algorithm (Flow 9),0.0,0.0,0.9090909090909091,42340
